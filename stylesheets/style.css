@@ -289,16 +289,16 @@ ion-icon {
 
 @keyframes spin {
   0% {
-    content: "Scientist";
+    content: "Engineer";
   }
   10% {
-    content: "R&D executive";
+    content: "ROM Porter";
   }
   20% {
-    content: "Technique transferer";
+    content: "Tech enthusiast";
   }
   30% {
-    content: "Technique transferer";
+    content: "Tech enthusiast";
   }
   40% {
     content: "Developer";
@@ -310,7 +310,7 @@ ion-icon {
     content: "Foodie";
   }
   70% {
-    content: "Leader";
+    content: "introvert";
   }
   80% {
     content: "Boy";
@@ -319,7 +319,7 @@ ion-icon {
     content: "Maintainer";
   }
   100% {
-    content: "Scientist";
+    content: "Engineer";
   }
 }
 
